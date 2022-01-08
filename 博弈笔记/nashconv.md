@@ -16,7 +16,7 @@ $$
 
 ## $\epsilon$-纳什均衡
 
-![image-20211221165906017](C:\Users\qinyuheng\AppData\Roaming\Typora\typora-user-images\image-20211221165906017.png)
+![image-20211221165906017](https://cdn.jsdelivr.net/gh/QYHcrossover/blog-imgbed//blogimg/image-20211221165906017.png)
 
 ## exploitability可用度
 
